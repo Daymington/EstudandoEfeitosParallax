@@ -1,0 +1,1 @@
+Projeto feito como exercício prático de programação em HTML e CSS.
